@@ -1,12 +1,12 @@
 <img align='left' src='./images/circuit.gif' width='18%'>
 
-
 # BIO
 
 ⚡ Electronic Enginner | 💻 Software Developer | 🌌 Love for Space
 
-
-[![](https://img.shields.io/badge/WebSite-edixonalberto.com-blue.svg?style=flat-square)](https://www.edixonalberto.com) ![](https://img.shields.io/github/stars/EdixonAlberto?affiliations=OWNER%2CCOLLABORATOR&style=social)
+[![](https://img.shields.io/badge/WebSite-edixonalberto.com-blue.svg?style=flat-square)](https://www.edixonalberto.com)
+![](https://img.shields.io/github/stars/EdixonAlberto?affiliations=OWNER%2CCOLLABORATOR&style=social)
+![](https://www.codewars.com/users/EdixonAlberto/badges/micro)
 
 My name is Edixon Piña, I am a computer electronics engineer and currently I am a full-time software developer. I carry out projects and provide my services remotely to companies around the world, working on the design, development and maintenance of software both on the frontend and the backend.
 
