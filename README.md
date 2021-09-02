@@ -39,4 +39,5 @@ both on the frontend and the backend.
   <img draggable="false" src='./images/skills/vue.png' width='50px' height='50px'>
   <img draggable="false" src='./images/skills/sass.png' width='50px' height='50px'>
   <img draggable="false" src='./images/skills/nodejs.png' width='50px' height='50px'>
+  <img draggable="false" src='./images/skills/typescript.png' height='50px'>
 </div>
