@@ -12,7 +12,7 @@
 ![](https://www.codewars.com/users/EdixonAlberto/badges/micro)
 <!-- ![](https://css-battle-shield.herokuapp.com?username=edixon&style=leader) -->
 
-Hola mi nombre es Edixon Piña soy Ingeniero Electrónico en Computación y actualmente me dedico como desarrollador web Full Stack acumulando mas de 4 años de experiencia en el diseño, desarrollo y mantenimiento de aplicaciones, servicios y páginas web.
+Hola mi nombre es Edixon Piña soy Ingeniero Electrónico en Computación y actualmente me dedico como desarrollador web Full Stack acumulando 5 años de experiencia en el diseño, desarrollo y mantenimiento de aplicaciones, servicios y páginas web.
 
 <h2 align="center">Habilidades</h2>
 
